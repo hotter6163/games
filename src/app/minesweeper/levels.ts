@@ -9,4 +9,9 @@ export const LEVELS = [
     size: 15,
     bombs: 16,
   },
+  {
+    level: 3,
+    size: 50,
+    bombs: 175,
+  },
 ];
